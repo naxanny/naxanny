@@ -1,16 +1,58 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**naxanny/naxanny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👾 Hello, I'm Naxanny!
 
-Here are some ideas to get you started:
+### `Student | Aspiring Web Developer`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building projects, learning new technologies and turning ideas into code.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=header" width="100%"/>
+
+</div>
+
+---
+
+## 🟣 About Me
+
+- 💻 I'm a student learning web development.
+- 🚀 Currently exploring **Frontend & Backend Development**.
+- 🌱 Learning and improving my programming skills every day.
+- 🎯 Interested in building modern and functional web applications.
+- 🎬 Working on personal projects using React and Firebase.
+
+---
+
+## ⚡ Technologies & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,firebase,bootstrap,git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 Featured Project
+
+### 🎬 Movie Library
+
+A web application developed with React and Firebase.
+
+- Manage your movie collection.
+- Add, edit and delete movies.
+- Display movie information and ratings.
+- Store data using Firebase Firestore.
+
+**Technologies:** React · JavaScript · Firebase · CSS
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
+
+</div>
