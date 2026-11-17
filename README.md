@@ -51,8 +51,8 @@ A web application developed with React and Firebase.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=naxanny&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naxanny&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117" />
 
 </div>
